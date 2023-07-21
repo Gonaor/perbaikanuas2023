@@ -1,0 +1,56 @@
+[
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "4628757",
+        "tipetransaksi": "K",
+        "sampah": "4",
+        "kuantitas": 200.0,
+        "nilaisatuan": 1000,
+        "total": 200000.0,
+        "saldo": 200000.0
+    },
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "5212026",
+        "tipetransaksi": "K",
+        "sampah": "2",
+        "kuantitas": 100.0,
+        "nilaisatuan": 300,
+        "total": 30000.0,
+        "saldo": 230000.0
+    },
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "7798013",
+        "tipetransaksi": "K",
+        "sampah": "3",
+        "kuantitas": 300.0,
+        "nilaisatuan": 800,
+        "total": 240000.0,
+        "saldo": 470000.0
+    },
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "4970059",
+        "tipetransaksi": "K",
+        "sampah": "1",
+        "kuantitas": 400.0,
+        "nilaisatuan": 500,
+        "total": 200000.0,
+        "saldo": 670000.0
+    },
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "7843025",
+        "tipetransaksi": "D",
+        "total": -270000.0,
+        "saldo": 400000.0
+    },
+    {
+        "tanggal": "2023-07-21",
+        "idtransaksi": "7958137",
+        "tipetransaksi": "D",
+        "total": -125000.0,
+        "saldo": 275000.0
+    }
+]
